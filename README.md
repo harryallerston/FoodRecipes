@@ -12,5 +12,5 @@ Please edit the recipe book upon adding a new recipe, thanks!
 
 ## Desserts
 
-* [Whiskey Bananas](desserts/WhiskeyBananas.md)
+* [Whiskey Bananas](desserts/Whiskey_bananas.md)
 
