@@ -1,18 +1,19 @@
-===============  Ingredients  ====================
+Ingredients
+===========
 
- 1½ lb (700 g) thick smoked haddock fillets
- 4 oz (110 g) butter
- 1 onion, chopped
- ¾ level teaspoon hot (Madras) curry powder
- long-grain white rice measured up to the 8 fl oz (225 ml) level in a measuring jug
- 3 hard-boiled eggs, chopped
- 3 heaped tablespoons fresh chopped parsley
- 1 tablespoon lemon juice
- salt and freshly milled black pepper
+* 1½ lb (700 g) thick smoked haddock fillets
+* 4 oz (110 g) butter
+* 1 onion, chopped
+* ¾ level teaspoon hot (Madras) curry powder
+* long-grain white rice measured up to the 8 fl oz (225 ml) level in a measuring jug
+* 3 hard-boiled eggs, chopped
+* 3 heaped tablespoons fresh chopped parsley
+* 1 tablespoon lemon juice
+* salt and freshly milled black pepper
 
 
-=================  Method  ========================
-
+Method
+======
 
 1. 	First place the haddock fillets in a saucepan and cover them with 1 pint (570 ml) cold water. 
 
