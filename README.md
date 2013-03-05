@@ -1,6 +1,7 @@
 Recipe Book
 ===========
-Harry's Recipe Book
+Collaborative Online Recipe Book
+Created by Harry Allerston and Richard Oliver , 2013
 
 ## Mains
 * [Kedgeree](mains/buttery_kedgeree.md)
