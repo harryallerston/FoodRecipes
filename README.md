@@ -3,7 +3,7 @@ Recipe Book
 Collaborative Online Recipe Book
 Created by Harry Allerston and Richard Oliver , 2013
 
-Please edit the recipe book upon adding a new recipe, thanks!
+Please edit the recipe book index upon adding a new recipe, thanks!
 
 ## Mains
 * [Kedgeree](mains/buttery_kedgeree.md)
