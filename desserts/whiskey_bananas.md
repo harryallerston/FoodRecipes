@@ -3,10 +3,10 @@ Ingredients
 
 Serves: 4
 
-*    115g butter
-*    115g light brown sugar
-*    120ml Bushmills Irish whisky
-*    4 large bananas, peeled and halved lengthwise
+*  115g butter
+*  115g light brown sugar
+*  120ml Bushmills Irish whisky (grouse will do just fine if we're feeling less posh)
+*  4 large bananas, peeled and halved lengthwise
  
 
 Preparation method
