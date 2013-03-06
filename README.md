@@ -9,6 +9,7 @@ Please edit the recipe book index upon adding a new recipe, thanks!
 * [Kedgeree](mains/buttery_kedgeree.md)
 * [Sausage Casserole](mains/great-sausage-casserole.md)
 * [Jamaican Rice & Peas](mains/JamaicanRiceAndPeas.md)
+* [Katie's tasty Butternut Squash Curry](mains/butternut_squash_curry.md)
 
 ## Desserts
 
