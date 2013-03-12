@@ -14,13 +14,12 @@ Serves 4
 * 1 clove of garlic
 * 1 tsp ground cumin
 * 1 tsp chilli powder
-* 1/2 tsp cayenne pepper
+* 3 pinches of dried chilli flakes
 * 1/2 tsp paprika
 * 2 tins of tomatoes
-* 1-2 tsp sugar
 * 1 heaped tbsp of tomato puree
-* any veg. that needs using up: mushrooms, peppers, courgette etc. bulk out well
-* 1 tin of kidney beans (drained)
+* 1/2 a box of mushrooms
+* 1 tin of kidney beans in chilli sauce (don't drain them, use the sauce!)
 
 
 
