@@ -17,4 +17,5 @@ Please edit the recipe book index upon adding a new recipe, thanks!
 ## Desserts
 
 * [Whiskey Bananas](desserts/whiskey_bananas.md)
+* [Cadbury's Creme Egg Brownies](desserts/creme-egg-brownies.md)
 
