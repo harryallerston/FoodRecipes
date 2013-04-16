@@ -10,16 +10,16 @@ Ingredients
 Serves 4
 
 * 400g mince 
-* 1 largo onion (diced)
+* 1 large onion (diced)
 * 1 clove of garlic
-* 1 tsp ground cumin
-* 1 tsp chilli powder
+* 2 tsp ground cumin
+* 2 tsp chilli powder
 * 3 pinches of dried chilli flakes
-* 1/2 tsp paprika
-* 2 tins of tomatoes
-* 1 heaped tbsp of tomato puree
+* 1 tsp paprika
+* 2 tins of tomatoes: (drain one tin so there's not too much liquid)
 * 1/2 a box of mushrooms
 * 1 tin of kidney beans in chilli sauce (don't drain them, use the sauce!)
+* tbsp of worcestershire sauce
 
 
 
