@@ -12,7 +12,7 @@ Please edit the recipe book index upon adding a new recipe, thanks!
 * [Katie's tasty Butternut Squash Curry](mains/butternut_squash_curry.md)
 * [Risotto Carbonara](mains/risotto_carbonara.md)
 * [Goulash](mains/goulash.md)
-* [Harry's Nomtastic Chilli](mains/chilli.md)
+* [Harry's Nomtastic Chilli](mains/harrys_nomtastic_chilli.md)
 
 ## Desserts
 
