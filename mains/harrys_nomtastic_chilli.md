@@ -24,6 +24,12 @@ Serves 4
 * glass of red wine (if feeling fancy)
 * grated cheese for topping
 
+for the rice:
+
+* basmati rice
+* 2 tsp turmeric
+* pinch of salt
+
 
 Preparation
 -----------
@@ -32,6 +38,7 @@ Preparation
 2. Add mince, cumin, chilli powder etc. and fry until mince is brown
 3. Add the rest of the ingredients and simmer for around an hour
 4. Season and thicken with flour if needed
+5. when cooking the rice, add turmeric and a pinch of salt to the water whilst simmering
 
 
 _Works well in the slow cooker too_ : do step 2 then chuck the rest in all day.
